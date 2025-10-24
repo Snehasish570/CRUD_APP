@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  font-family: 'Segoe UI', sans-serif;
+  margin: 30px;
+}
+
+table {
+  margin: auto;
+  width: 70%;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
+
+button {
+  margin: 2px;
+  padding: 6px 10px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #ddd;
+}
+
+form input {
+  padding: 6px;
+  margin: 4px;
+}
